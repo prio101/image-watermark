@@ -15,8 +15,9 @@ watermark.embedWatermark('/path/to/image_or_pdf/file', [options]);
 
 ### Clone the repo
 
+```
 git clone https://github.com/luthraG/image-watermark.git
-
+```
 ### API
 
 #### embedWatermark(source, [options])
